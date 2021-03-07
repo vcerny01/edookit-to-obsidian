@@ -1,4 +1,4 @@
-
+#input lines
 link = input('Paste your link: ')
 n = int(input('How  many links?:'))
 firspart = link[:56]
